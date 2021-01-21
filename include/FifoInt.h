@@ -24,5 +24,4 @@ class Fifo {
 		void increase (int *ptr);
 };
 
-
 #endif

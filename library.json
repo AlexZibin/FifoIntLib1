@@ -1,0 +1,13 @@
+{
+    "name": "FifoInt",
+    "version": "1.0.0",
+    "description": "FIFO-style buffer with various support functions",
+    "keywords": "buffer, FIFO",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/AlexZibin/FifoIntLib.git"
+    },
+    "frameworks": "*",
+    "platforms": "*"
+  }

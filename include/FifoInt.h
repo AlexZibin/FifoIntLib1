@@ -1,8 +1,8 @@
 #ifndef FifoInt_h
 #define FifoInt_h
 
-// Ver. 2021
-//#include "Arduino.h"
+// version: 1.0.1
+// #include "Arduino.h"
 
 typedef int fif_t;
 
